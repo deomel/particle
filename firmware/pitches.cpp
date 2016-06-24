@@ -1,1 +1,1 @@
-int main { }
+#include "pitches.h"
