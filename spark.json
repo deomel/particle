@@ -1,0 +1,7 @@
+{
+  "name": "pitches",
+  "author": "Deo Melgaco",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A simple library with frequencies for musical notes"
+}
